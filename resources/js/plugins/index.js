@@ -1,0 +1,5 @@
+import './axios'
+import './fontawesome'
+import './element'
+import './lodash'
+import 'bootstrap'
