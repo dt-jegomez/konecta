@@ -1,9 +1,9 @@
-# konecta 
-proceso de intsalación 
+# konecta
+# proceso de intsalación
   composer install
   npm i
 configure una base se datos y agregela junto con sus credenciales al archivo .env
-genere las tablas y el usuario administrador por defecto. go.juangomez23@gmail.com  123456
+genere las tablas y el usuario administrador por defecto.     go.juangomez23@gmail.com  123456
   php artisan migrate --seed
 lenvante los servicios del servidor
   php artinsa serve
